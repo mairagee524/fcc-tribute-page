@@ -1,4 +1,12 @@
+#main {
+    box-sizing: border-box;
+}
+
 #title {
     font-family: 'Nerko One', cursive;
     text-align: center;
+}
+
+#img-div {
+    max-width: 50%;
 }

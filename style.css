@@ -3,12 +3,19 @@
     background-color: #333333;
 }
 
+.title-box {
+    background: #EDAFB8;
+    padding: 30px;
+}
+
 #title {
     font-family: 'Nerko One', cursive;
     text-align: center;
+    background: #EDAFB8;
 }
 
 #image {
+    margin-top: 10px;
     max-width: 50%;
     display: block;
     margin-left: auto;

@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+#main {
+    text-align: center;
+}
+
 .title-box {
     background: #EDAFB8;
     padding: 30px;
@@ -20,6 +24,10 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 5px;
+    border-width: 10px;
+    border-color: white;
+    border-style: dotted;
 }
 
 #img-caption {

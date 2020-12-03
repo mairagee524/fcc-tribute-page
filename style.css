@@ -16,6 +16,7 @@
 #title {
     font-family: 'Nerko One', cursive;
     background: #EDAFB8;
+    font-size: 50px;
 }
 
 #image {
@@ -32,4 +33,9 @@
 
 #img-caption {
     font-family: 'Montserrat';
+    margin-top: 20px;
+}
+
+#tribute-info {
+    margin-top: 50px;
 }

@@ -1,3 +1,3 @@
 # fcc-tribute-page
 
-This page is part of the Responsive section for the FreeCodeCamp certificate. 
+This application is my rendition of a responsive website, as part of the requirements for the FreeCodeCamp certificate. 

@@ -22,6 +22,7 @@
 .content {
     display: flex;
     justify-content: space-between;
+    color: wheat
 }
 
 #image {

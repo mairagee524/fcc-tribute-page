@@ -22,7 +22,10 @@
 .content {
     display: flex;
     justify-content: space-between;
-    color: wheat
+    color: wheat;
+    max-width: 70%; 
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .column {
@@ -31,7 +34,7 @@
 
 #image {
     margin-top: 10px;
-    max-width: 50%;
+    max-width: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -46,11 +49,15 @@
     margin-top: 20px;
 }
 
-#tribute-info {
-    margin-top: 50px;
+#tribute-info, #tribute-link {
+    /* margin-top: 50px; */
     font-family: 'Montserrat';
 }
 
 .singer-info {
     padding: 10px;
+}
+
+#link {
+    color: white;
 }

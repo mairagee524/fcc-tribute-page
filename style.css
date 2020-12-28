@@ -54,6 +54,10 @@
     font-family: 'Montserrat';
 }
 
+.title {
+    font-weight: 800;
+}
+
 .singer-info {
     padding-top: 10px;
 }

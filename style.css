@@ -44,22 +44,20 @@
     border-style: dotted;
 }
 
-#img-caption {
+#img-caption, #tribute-info, #tribute-link {
     font-family: 'Montserrat';
     margin-top: 20px;
+    font-weight: 100;
+
 }
 
-#tribute-info, #tribute-link {
-    /* margin-top: 50px; */
-    font-family: 'Montserrat';
-}
-
-.title {
-    font-weight: 800;
+.title-bio {
+    font-weight: 500;
 }
 
 .singer-info {
     padding-top: 10px;
+    font-weight: 100;
 }
 
 #link {
